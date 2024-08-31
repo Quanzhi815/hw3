@@ -4,7 +4,7 @@ Student 1: Quanzhi Shao (919164480)
 Student 2: Yuhao Wang (919458549)
 
 ## Project Status
-This the current status of the project ...
+All modules excluding extra credits are finished
 
 ## Known Issues
 The project fails to function properly in ...
