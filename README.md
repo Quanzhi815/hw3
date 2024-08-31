@@ -1,7 +1,7 @@
 # Project 3 README
 
-Student 1: Full Name 1 (123456789)
-Student 2: Full Name 2 (123456798)
+Student 1: Quanzhi Shao (919164480)
+Student 2: Yuhao Wang (919458549)
 
 ## Project Status
 This the current status of the project ...
